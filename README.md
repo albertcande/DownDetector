@@ -230,15 +230,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📬 Contact
-
-**Your Name** - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/DownDetector](https://github.com/YOUR_USERNAME/DownDetector)
-
----
-
 <p align="center">
   Made with ❤️ by Your Name
 </p>
+
 
