@@ -41,7 +41,7 @@ You'll also need:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DownDetector.git
+git clone https://github.com/albertcande/DownDetector.git
 cd DownDetector
 ```
 
@@ -241,3 +241,4 @@ Project Link: [https://github.com/YOUR_USERNAME/DownDetector](https://github.com
 <p align="center">
   Made with ❤️ by Your Name
 </p>
+
