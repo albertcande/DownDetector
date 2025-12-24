@@ -1,0 +1,17 @@
+# ============================================================
+# DOWN DETECTOR - PYTHON DEPENDENCIES
+# ============================================================
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# HTTP requests library for Slack webhook integration
+requests>=2.28.0
+
+# Undetected Chrome driver for bypassing anti-bot protections
+undetected-chromedriver>=3.5.0
+
+# Selenium for browser automation
+selenium>=4.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
